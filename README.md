@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Shahd Mahmoud
 
-💻 **Computer Engineering Student | Front-End Developer | Cybersecurity Enthusiast**
+**Computer Engineering Student | Front-End Developer | Cybersecurity Enthusiast**
 
-🎓 Fourth-year Computer Engineering student passionate about building interactive and user-friendly web experiences.
+I'm a fifth-year Computer Engineering student who enjoys building things for the web and learning how they work behind the scenes.
 
-🌐 Currently focusing on **Front-End Development** with **HTML, CSS, JavaScript, TypeScript, Angular, React, and Git**.
+🌐 I'm mainly focused on **Front-End Development**, working with **HTML, CSS, JavaScript, TypeScript, Angular, React, and Git**.
 
-🔐 Exploring **Cybersecurity**, with an interest in networking, Linux, web security, and practical security challenges.
+🔐 I'm also interested in **Cybersecurity**, especially **Linux, networking, and web security**, and I'm trying to get more hands-on experience in the field.
 
-🚀 I enjoy turning ideas into real projects, learning new technologies, and continuously improving my development skills.
-
-📚 Currently learning, building, and sharing my journey in tech.
+I like learning by actually building things, experimenting with new technologies, and turning ideas into projects.
 
 ---
 
@@ -26,42 +24,20 @@
 
 ## 💻 What I'm Working On
 
-* 🌐 Building **Front-End projects** with modern frameworks
-* 🎨 Improving my **UI/UX and responsive design** skills
-* 🔐 Developing my knowledge in **Cybersecurity**
+* 🌐 Building Front-End projects and improving my skills
+* 🎨 Learning more about UI/UX and responsive design
+* 🔐 Exploring Cybersecurity, Linux, and networking
 * 🧩 Practicing problem solving and programming
-* 🚀 Working on projects that combine technology, creativity, and real-world solutions
+* 🚀 Working on projects and trying out new ideas
 
 ---
 
-## 📌 Featured Project
-
-🔹 **MATE ROV GUI**
-A web-based interface for controlling and monitoring an underwater remotely operated vehicle.
-
----
-
-## 🏆 Achievements
-
-🥈 **2nd Place — MATE Egypt Regional 2026**
-IEEE Penguins Pioneer — MATE ROV Competition
-
-🌎 Qualified for the **MATE ROV International Championship**
-
-👩🏻‍💻 Active contributor to technical and cybersecurity activities within **IEEE**
-
-
----
-
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 ```text
 Front-End Development
-        ↓
 Angular • React • TypeScript
-        ↓
 UI/UX • Responsive Design
-        ↓
 Cybersecurity • Linux • Networking
 ```
 
@@ -69,8 +45,14 @@ Cybersecurity • Linux • Networking
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, learning from others, collaborating on projects, and exploring new opportunities in tech.
-
-📫 **Feel free to reach out and say hi!**
-
-⭐ If you find something interesting in my repositories, feel free to star it!
+<p align="left">
+  <a href="mailto:eng.shahda@gmil.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/eng-shahd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
