@@ -18,7 +18,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,git,github,java,sql,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,git,github,java,linux" />
 
 </p>
 
