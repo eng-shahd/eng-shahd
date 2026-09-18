@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahd Mahmoud!
+# 👋 Hi, I'm Shahd Mahmoud
 
 💻 **Computer Engineering Student | Front-End Developer | Cybersecurity Enthusiast**
 
@@ -18,7 +18,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,git,github,java,cs,dotnet,sql,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,git,github,java,sql,linux" />
 
 </p>
 
@@ -50,17 +50,6 @@ IEEE Penguins Pioneer — MATE ROV Competition
 
 👩🏻‍💻 Active contributor to technical and cybersecurity activities within **IEEE**
 
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eng-shahd&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-shahd&layout=compact&theme=transparent&hide_border=true" />
-
-</p>
 
 ---
 
